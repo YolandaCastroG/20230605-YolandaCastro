@@ -1,0 +1,22 @@
+  yolandacastro@MacBook-Air-de-Yolanda 20230605-YolandaCastro % history
+  870  git add .
+  871  git commit -m "commit 01 de YolandaCastro"
+  872  git remote add origin 
+https://github.com/YolandaCastroG/20230605-YolandaCastro.git
+  873  git push -u origin main
+  874  git branch feature
+  875  git checkout feature
+  876  mkdir Hardware Software SeguridadInformatica
+  877  touch Hardware/resumen.txt Software/resumen.txt 
+SeguridadInformatica/resumen.txt
+  878  ls -a
+  879  git add .
+  880  git commit -m "commit 02 de YolandaCastro"
+  881  git push origin feature
+  882  git checkout main
+  883  git merge feature
+  884  git push origin main
+  885  mv main.js resumenHardware.txt
+  886  mv index.html resumenSoftware.txt
+  887  nano resumenSoftware.txt
+  888  nano resumenHardare.txt
